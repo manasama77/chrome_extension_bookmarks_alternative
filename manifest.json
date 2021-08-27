@@ -4,7 +4,7 @@
     "name": "Bookmarks Alternative",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "icon.png"
+        "default_icon": "128p.png"
     },
     "permissions": [
         "tabs"
